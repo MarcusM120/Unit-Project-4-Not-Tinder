@@ -1,0 +1,48 @@
+body{
+ background-color: orange;   
+}
+    .topusername,.item3{
+    display: flex;
+    justify-content: space-around;
+     text-align: center;
+    background-color: yellow;   
+    border: dotted 8px black;
+    padding: 10px;
+        margin: 10px;
+
+}
+.profilepic{
+    height:100px;   
+    width: 100px;
+    border-radius:50%;
+    border: solid 5px ;
+}
+h2,.item2,.item4{
+       text-align: center;
+    background-color: yellow;   
+    border: dotted 8px black;
+    padding: 10px;
+        margin: 10px;
+}
+.item1,.item3{
+ background-color: gold;   
+display: flex;
+    justify-content: space-around;
+    border: double 4px black;
+    padding: 1px;
+    margin: 1px;
+    color: black;
+    font-size: 30px;
+}
+.item1:hover{
+ background-color:#1fff99;      
+}
+h2{
+  font-family: 'Give You Glory', cursive;  
+    background-color: pink;
+    text-align: center;
+}
+.pls{
+display: flex;
+    justify-content: space-around;    
+}
